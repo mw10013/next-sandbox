@@ -1,3 +1,11 @@
+
+
+```
+pnpm dlx shadcn@latest add https://oui.mw10013.workers.dev/r/oui-button-demo.json
+pnpm dlx shadcn@latest add https://oui.mw10013.workers.dev/r/oui-form-demo.json
+pnpm dlx shadcn@latest add https://oui.mw10013.workers.dev/r/oui-index-demo.json
+```
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
