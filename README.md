@@ -3,6 +3,7 @@
 ```
 pnpm dlx shadcn@latest add https://oui.mw10013.workers.dev/r/oui-button-demo.json
 pnpm dlx shadcn@latest add https://oui.mw10013.workers.dev/r/oui-form-demo.json
+pnpm dlx shadcn@latest add https://oui.mw10013.workers.dev/r/oui-autocomplete-ex-demo.json
 pnpm dlx shadcn@latest add https://oui.mw10013.workers.dev/r/oui-index-demo.json
 ```
 
