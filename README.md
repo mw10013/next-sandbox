@@ -3,13 +3,7 @@ pnpm dlx shadcn@latest add @oui/button-demo
 pnpm dlx shadcn@latest add @oui/form-demo
 pnpm dlx shadcn@latest add @oui/autocomplete-ex-demo
 pnpm dlx shadcn@latest add @oui/dialog-ex-demo
-pnpm dlx shadcn@latest add @oui/index-demo
-
-pnpm dlx shadcn@latest add https://oui.mw10013.workers.dev/r/oui-button-demo.json
-pnpm dlx shadcn@latest add https://oui.mw10013.workers.dev/r/oui-form-demo.json
-pnpm dlx shadcn@latest add https://oui.mw10013.workers.dev/r/oui-autocomplete-ex-demo.json
-pnpm dlx shadcn@latest add https://oui.mw10013.workers.dev/r/oui-dialog-ex-demo.json
-pnpm dlx shadcn@latest add https://oui.mw10013.workers.dev/r/oui-index-demo.json
+pnpm dlx shadcn@latest add @oui/index
 ```
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
