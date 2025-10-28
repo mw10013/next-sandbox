@@ -1,9 +1,9 @@
 ```
-pnpm dlx shadcn@latest add @oui/button-demo
-pnpm dlx shadcn@latest add @oui/form-demo
-pnpm dlx shadcn@latest add @oui/autocomplete-ex-demo
-pnpm dlx shadcn@latest add @oui/dialog-ex-demo
-pnpm dlx shadcn@latest add @oui/index
+pnpm dlx shadcn@latest add @oui/oui-button-demo
+pnpm dlx shadcn@latest add @oui/oui-form-demo
+pnpm dlx shadcn@latest add @oui/oui-autocomplete-ex-demo
+pnpm dlx shadcn@latest add @oui/oui-dialog-ex-demo
+pnpm dlx shadcn@latest add @oui/oui-index
 ```
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
